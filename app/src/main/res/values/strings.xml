@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CoffeeApp</string>
+    <string name="time_up">Time Is Up\!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="notifying_server">Notifying server, please wait...</string>
+    <string name="server_error">Couldn\'t find server :(</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
